@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: ;
+	color: black;
+	text-align: center;
+}
+
+
+.datos {
+	flex: 20%;
+	margin: 5px;
+	border-radius: 10px;
+	border: 2px solid black;
+	box-shadow: 3px 3px 3px black;
+	padding: 20px;
+
+}

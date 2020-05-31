@@ -1,0 +1,87 @@
+.tabla1{
+	background-color: #58676A;
+	color: white;
+	margin: 15px;
+	padding: 30px;
+	text-align: justify;
+	width: 30%;
+	vertical-align: top;
+	border-bottom: solid 2px;
+
+}
+.tabla2{
+	background-color:#4C5051;
+	padding: 1%;
+	color: #ffff;
+	border: solid 1px white;
+}
+.titulo{
+	border-bottom: solid 3px;
+	margin: 10px;
+}
+.icon{
+  width: 60px;
+}
+.icon2{
+	width: 20px
+}
+#foto{
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+	border: solid 5px white;
+	box-shadow: 0px 0px 15px #52E4B8;
+	
+}
+#General{
+	margin: 10px;
+	padding: 40px;
+}
+
+#text{
+	width: 50%;
+}
+#habilidad{
+	font-size: 17px;
+	text-align: left;
+}
+.tituloPrin{
+	font-family: inherit;
+	text-align: center;
+	
+
+}
+.fotoo{
+	align-items: center;
+
+}
+.tabla01{
+	background-color:#FFFFFF ;
+
+}
+.education{
+	vertical-align: top;
+}
+table{
+	width: 80%;
+	margin: auto;
+	border-spacing: 0;
+	border-radius: 50%;
+}
+body{
+	background-color: white;
+
+
+	font-family: sans-serif;
+}
+ul{
+	list-style:none;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+button{
+	display: flex;
+	align-items: center;
+}
